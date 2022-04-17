@@ -1,6 +1,7 @@
 {
   "origins": [
-    "https://dni9.vercel.app"
+    "https://dni9.vercel.app",
+    "https://www.dni9.tech"
   ],
   "originsRegex": [
     "http://localhost:[0-9]+"
